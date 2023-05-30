@@ -1,0 +1,666 @@
+[<div class="Tag--articles" data-stat="articles">
+<div class="Tag--article">
+<div class="ArticleItem">
+<div class="ArticleItem--data ArticleItem--data--withImage">
+<a class="ArticleItem--image" data-stat="articleItem image" href="https://kaktus.media/doc/481507_oryntaev_ne_sobiraetsia_ostanavlivatsia_v_voprosah_snosa_obektov.html">
+<img class="ArticleItem--image-img lazyload" data-src="https://data.kaktus.media/image/small/2023-05-30_15-34-21_766499.jpg" src="https://data.kaktus.media/image/small/2023-05-30_15-34-21_766499.jpg"/>
+</a>
+<a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481507_oryntaev_ne_sobiraetsia_ostanavlivatsia_v_voprosah_snosa_obektov.html">
+Орунтаев не собирается останавливаться в вопросах сноса объектов </a>
+<div class="ArticleItem--info">
+<div class="ArticleItem--time">
+15:21 </div>
+</div>
+</div>
+</div>
+</div>
+<div class="Tag--article">
+<div class="ArticleItem">
+<div class="ArticleItem--data ArticleItem--data--withImage">
+<a class="ArticleItem--image" data-stat="articleItem image" href="https://kaktus.media/doc/481494_snos_kafe_batymi._v_bgk_sprosili_oryntaeva_gde_on_vozmet_3_mln_somov.html">
+<img class="ArticleItem--image-img lazyload" data-src="https://data.kaktus.media/image/small/2023-05-30_13-30-43_551806.jpg" src="https://data.kaktus.media/image/small/2023-05-30_13-30-43_551806.jpg"/>
+</a>
+<a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481494_snos_kafe_batymi._v_bgk_sprosili_oryntaeva_gde_on_vozmet_3_mln_somov.html">
+Снос кафе "Батуми". В БГК спросили Орунтаева, где он возьмет 3 млн сомов </a>
+<div class="ArticleItem--info">
+<div class="ArticleItem--time">
+14:55 </div>
+</div>
+</div>
+</div>
+</div>
+<div class="Tag--article">
+<div class="ArticleItem">
+<div class="ArticleItem--data ArticleItem--data--withImage">
+<a class="ArticleItem--image" data-stat="articleItem image" href="https://kaktus.media/doc/481503_syna_nadiry_narmatovoy_otpystili_pod_domashniy_arest._on_obviniaetsia_v_korrypcii_na_tamojne.html">
+<img class="ArticleItem--image-img lazyload" data-src="https://data.kaktus.media/image/small/2023-05-30_14-37-50_193495.jpg" src="https://data.kaktus.media/image/small/2023-05-30_14-37-50_193495.jpg"/>
+</a>
+<a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481503_syna_nadiry_narmatovoy_otpystili_pod_domashniy_arest._on_obviniaetsia_v_korrypcii_na_tamojne.html">
+Сына Надиры Нарматовой отпустили под домашний арест. Он обвиняется в коррупции на таможне </a>
+<div class="ArticleItem--info">
+<div class="ArticleItem--time">
+14:47 </div>
+</div>
+</div>
+</div>
+</div>
+<div class="Tag--article">
+<div class="ArticleItem">
+<div class="ArticleItem--data ArticleItem--data--withImage">
+<a class="ArticleItem--image" data-stat="articleItem image" href="https://kaktus.media/doc/481470_v_oshe_otkrylsia_filial_mgy_im._m._lomonosova_video.html">
+<img class="ArticleItem--image-img lazyload" data-src="https://data.kaktus.media/image/small/2023-05-30_14-33-54_902553.jpg" src="https://data.kaktus.media/image/small/2023-05-30_14-33-54_902553.jpg"/>
+</a>
+<a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481470_v_oshe_otkrylsia_filial_mgy_im._m._lomonosova_video.html">
+В Оше открылся филиал МГУ им. М. Ломоносова (видео) </a>
+<div class="ArticleItem--info">
+<div class="ArticleItem--time">
+14:39 </div>
+</div>
+</div>
+</div>
+</div>
+<div class="Tag--article">
+<div class="ArticleItem">
+<div class="ArticleItem--data ArticleItem--data--withImage">
+<a class="ArticleItem--image" data-stat="articleItem image" href="https://kaktus.media/doc/481502_kak_vygliadiat_ychastniki_d_billions_bez_grima_foto_so_vstrechi_akterov_s_akylbekom_japarovym.html">
+<img class="ArticleItem--image-img lazyload" data-src="https://data.kaktus.media/image/small/2023-05-30_14-27-10_634828.jpg" src="https://data.kaktus.media/image/small/2023-05-30_14-27-10_634828.jpg"/>
+</a>
+<a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481502_kak_vygliadiat_ychastniki_d_billions_bez_grima_foto_so_vstrechi_akterov_s_akylbekom_japarovym.html">
+Как выглядят участники D Billions без грима? Фото со встречи актеров с Акылбеком Жапаровым </a>
+<div class="ArticleItem--info">
+<div class="ArticleItem--time">
+14:38 </div>
+</div>
+</div>
+</div>
+</div>
+<div class="Tag--article">
+<div class="ArticleItem">
+<div class="ArticleItem--data ArticleItem--data--withImage">
+<a class="ArticleItem--image" data-stat="articleItem image" href="https://kaktus.media/doc/481496_oryntaev:_demontaj_kafe_batymi_seychas_priostanovlen.html">
+<img class="ArticleItem--image-img lazyload" data-src="https://data.kaktus.media/image/small/2023-05-30_13-31-42_148882_w.jpg" src="https://data.kaktus.media/image/small/2023-05-30_13-31-42_148882_w.jpg"/>
+</a>
+<a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481496_oryntaev:_demontaj_kafe_batymi_seychas_priostanovlen.html">
+Орунтаев: Демонтаж кафе "Батуми" сейчас приостановлен </a>
+<div class="ArticleItem--info">
+<div class="ArticleItem--time">
+14:37 </div>
+</div>
+</div>
+</div>
+</div>
+<div class="Tag--article">
+<div class="ArticleItem">
+<div class="ArticleItem--data ArticleItem--data--withImage">
+<a class="ArticleItem--image" data-stat="articleItem image" href="https://kaktus.media/doc/481499_v_bishkeke_pri_shkolah_bydyt_rabotat_letnie_detskie_lageria.html">
+<img class="ArticleItem--image-img lazyload" data-src="https://data.kaktus.media/image/small/2023-05-30_14-12-54_196616.jpg" src="https://data.kaktus.media/image/small/2023-05-30_14-12-54_196616.jpg"/>
+</a>
+<a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481499_v_bishkeke_pri_shkolah_bydyt_rabotat_letnie_detskie_lageria.html">
+В Бишкеке при школах будут работать летние детские лагеря </a>
+<div class="ArticleItem--info">
+<div class="ArticleItem--time">
+14:16 </div>
+</div>
+</div>
+</div>
+</div>
+<div class="Tag--article">
+<div class="ArticleItem">
+<div class="ArticleItem--data ArticleItem--data--withImage">
+<a class="ArticleItem--image" data-stat="articleItem image" href="https://kaktus.media/doc/481498_vo_vremia_operacii_podrostok_zaderjali_podozrevaemogo_v_kraje_37_letnego_jitelia_karakola.html">
+<img class="ArticleItem--image-img lazyload" data-src="https://data.kaktus.media/image/small/2023-05-30_13-48-37_506253.jpg" src="https://data.kaktus.media/image/small/2023-05-30_13-48-37_506253.jpg"/>
+</a>
+<a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481498_vo_vremia_operacii_podrostok_zaderjali_podozrevaemogo_v_kraje_37_letnego_jitelia_karakola.html">
+Во время операции "Подросток" задержали подозреваемого в краже 37-летнего жителя Каракола </a>
+<div class="ArticleItem--info">
+<div class="ArticleItem--time">
+14:00 </div>
+</div>
+</div>
+</div>
+</div>
+<div class="Tag--article">
+<div class="ArticleItem">
+<div class="ArticleItem--data ArticleItem--data--withImage">
+<a class="ArticleItem--image" data-stat="articleItem image" href="https://kaktus.media/doc/481497_v_bishkeke_prodlili_moratoriy_na_arendy_zemli.html">
+<img class="ArticleItem--image-img lazyload" data-src="https://data.kaktus.media/image/small/2023-05-30_13-46-28_514690.jpg" src="https://data.kaktus.media/image/small/2023-05-30_13-46-28_514690.jpg"/>
+</a>
+<a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481497_v_bishkeke_prodlili_moratoriy_na_arendy_zemli.html">
+В Бишкеке продлили мораторий на аренду земли </a>
+<div class="ArticleItem--info">
+<div class="ArticleItem--time">
+13:50 </div>
+</div>
+</div>
+</div>
+</div>
+<div class="Tag--article">
+<div class="ArticleItem">
+<div class="ArticleItem--data ArticleItem--data--withImage">
+<a class="ArticleItem--image" data-stat="articleItem image" href="https://kaktus.media/doc/481485_zaderjka_reysa_iz_za_neispravnosti_samoleta._passajiry_vse_eshe_jdyt_otvet_aviakompanii.html">
+<img class="ArticleItem--image-img lazyload" data-src="https://data.kaktus.media/image/small/2023-05-30_13-35-00_362681.jpg" src="https://data.kaktus.media/image/small/2023-05-30_13-35-00_362681.jpg"/>
+</a>
+<a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481485_zaderjka_reysa_iz_za_neispravnosti_samoleta._passajiry_vse_eshe_jdyt_otvet_aviakompanii.html">
+Задержка рейса из-за неисправности самолета. Пассажиры все еще ждут ответ авиакомпании </a>
+<div class="ArticleItem--info">
+<div class="ArticleItem--time">
+13:42 </div>
+</div>
+</div>
+</div>
+</div>
+<div class="Tag--article">
+<div class="ArticleItem">
+<div class="ArticleItem--data ArticleItem--data--withImage">
+<a class="ArticleItem--image" data-stat="articleItem image" href="https://kaktus.media/doc/480124_kak_i_pochemy_deti_prohodiat_proverky_y_psihiatra_video.html">
+<img class="ArticleItem--image-img lazyload" data-src="https://data.kaktus.media/image/small/2023-05-04_13-26-06_930947_ws.jpg" src="https://data.kaktus.media/image/small/2023-05-04_13-26-06_930947_ws.jpg"/>
+</a>
+<a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/480124_kak_i_pochemy_deti_prohodiat_proverky_y_psihiatra_video.html" style="font-weight: bold">
+Как и почему дети проходят проверку у психиатра? (видео) </a>
+<div class="ArticleItem--info">
+<div class="ArticleItem--time">
+13:35 </div>
+</div>
+</div>
+</div>
+</div>
+<div class="Tag--article">
+<div class="ArticleItem">
+<div class="ArticleItem--data ArticleItem--data--withImage">
+<a class="ArticleItem--image" data-stat="articleItem image" href="https://kaktus.media/doc/481484_profilnyy_komitet_odobril_lishenie_prokyratyry_fynkcii_sledstviia._byvshiy_prokyror_protiv.html">
+<img class="ArticleItem--image-img lazyload" data-src="https://data.kaktus.media/image/small/2023-05-30_13-17-25_299676.jpg" src="https://data.kaktus.media/image/small/2023-05-30_13-17-25_299676.jpg"/>
+</a>
+<a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481484_profilnyy_komitet_odobril_lishenie_prokyratyry_fynkcii_sledstviia._byvshiy_prokyror_protiv.html">
+Профильный комитет одобрил лишение прокуратуры функции следствия. Бывший прокурор против </a>
+<div class="ArticleItem--info">
+<div class="ArticleItem--time">
+13:33 </div>
+</div>
+</div>
+</div>
+</div>
+<div class="Tag--article">
+<div class="ArticleItem">
+<div class="ArticleItem--data ArticleItem--data--withImage">
+<a class="ArticleItem--image" data-stat="articleItem image" href="https://kaktus.media/doc/481493_v_bishkeke_povysili_tarif_na_holodnyu_vody_i_kanalizaciu_s_1_iunia.html">
+<img class="ArticleItem--image-img lazyload" data-src="https://data.kaktus.media/image/small/2023-05-30_13-26-30_821487.jpg" src="https://data.kaktus.media/image/small/2023-05-30_13-26-30_821487.jpg"/>
+</a>
+<a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481493_v_bishkeke_povysili_tarif_na_holodnyu_vody_i_kanalizaciu_s_1_iunia.html" style="font-weight: bold">
+В Бишкеке повысили тариф на холодную воду и канализацию с 1 июня </a>
+<div class="ArticleItem--info">
+<div class="ArticleItem--time">
+13:28 </div>
+</div>
+</div>
+</div>
+</div>
+<div class="Tag--article">
+<div class="ArticleItem">
+<div class="ArticleItem--data ArticleItem--data--withImage">
+<a class="ArticleItem--image" data-stat="articleItem image" href="https://kaktus.media/doc/481492_moskvy_i_podmoskove_atakovali_bespilotniki_foto_video.html">
+<img class="ArticleItem--image-img lazyload" data-src="https://data.kaktus.media/image/small/2023-05-30_13-21-04_240501.jpg" src="https://data.kaktus.media/image/small/2023-05-30_13-21-04_240501.jpg"/>
+</a>
+<a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481492_moskvy_i_podmoskove_atakovali_bespilotniki_foto_video.html">
+Москву и Подмосковье атаковали беспилотники (фото, видео) </a>
+<div class="ArticleItem--info">
+<div class="ArticleItem--time">
+13:24 </div>
+</div>
+</div>
+</div>
+</div>
+<div class="Tag--article">
+<div class="ArticleItem">
+<div class="ArticleItem--data ArticleItem--data--withImage">
+<a class="ArticleItem--image" data-stat="articleItem image" href="https://kaktus.media/doc/481489_segodnia_sessiia_bgk._mer_otvetil_jdat_li_na_ney_nyrdana_oryntaeva.html">
+<img class="ArticleItem--image-img lazyload" data-src="https://data.kaktus.media/image/small/2023-05-30_12-46-40_796484.jpg" src="https://data.kaktus.media/image/small/2023-05-30_12-46-40_796484.jpg"/>
+</a>
+<a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481489_segodnia_sessiia_bgk._mer_otvetil_jdat_li_na_ney_nyrdana_oryntaeva.html">
+Сегодня сессия БГК. Мэр ответил, ждать ли на ней Нурдана Орунтаева </a>
+<div class="ArticleItem--info">
+<div class="ArticleItem--time">
+12:48 </div>
+</div>
+</div>
+</div>
+</div>
+<div class="Tag--article">
+<div class="ArticleItem">
+<div class="ArticleItem--data ArticleItem--data--withImage">
+<a class="ArticleItem--image" data-stat="articleItem image" href="https://kaktus.media/doc/481488_kyrs_valut_v_kombankah_30_maia:_cena_prodaji_dollara_snizilas.html">
+<img class="ArticleItem--image-img lazyload" data-src="https://data.kaktus.media/image/small/2023-05-30_12-36-24_186547.jpg" src="https://data.kaktus.media/image/small/2023-05-30_12-36-24_186547.jpg"/>
+</a>
+<a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481488_kyrs_valut_v_kombankah_30_maia:_cena_prodaji_dollara_snizilas.html">
+Курс валют в комбанках 30 мая: цена продажи доллара снизилась </a>
+<div class="ArticleItem--info">
+<div class="ArticleItem--time">
+12:47 </div>
+</div>
+</div>
+</div>
+</div>
+<div class="Tag--article">
+<div class="ArticleItem">
+<div class="ArticleItem--data ArticleItem--data--withImage">
+<a class="ArticleItem--image" data-stat="articleItem image" href="https://kaktus.media/doc/481487_zaderjany_podozrevaemye_v_ybiystve_v_kotorom_obviniali_syna_izvestnogo_advokata.html">
+<img class="ArticleItem--image-img lazyload" data-src="https://data.kaktus.media/image/small/2023-05-30_12-41-31_435539.jpg" src="https://data.kaktus.media/image/small/2023-05-30_12-41-31_435539.jpg"/>
+</a>
+<a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481487_zaderjany_podozrevaemye_v_ybiystve_v_kotorom_obviniali_syna_izvestnogo_advokata.html">
+Задержаны подозреваемые в убийстве, в котором обвиняли сына известного адвоката </a>
+<div class="ArticleItem--info">
+<div class="ArticleItem--time">
+12:44 </div>
+</div>
+</div>
+</div>
+</div>
+<div class="Tag--article">
+<div class="ArticleItem">
+<div class="ArticleItem--data ArticleItem--data--withImage">
+<a class="ArticleItem--image" data-stat="articleItem image" href="https://kaktus.media/doc/481486_meriu_prosiat_aktivnee_snosit_postroyki_vdol_pravitelstvennyh_trass.html">
+<img class="ArticleItem--image-img lazyload" data-src="https://data.kaktus.media/image/small/2023-05-30_12-37-59_784604.jpg" src="https://data.kaktus.media/image/small/2023-05-30_12-37-59_784604.jpg"/>
+</a>
+<a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481486_meriu_prosiat_aktivnee_snosit_postroyki_vdol_pravitelstvennyh_trass.html">
+Мэрию просят активнее сносить постройки вдоль правительственных трасс </a>
+<div class="ArticleItem--info">
+<div class="ArticleItem--time">
+12:40 </div>
+</div>
+</div>
+</div>
+</div>
+<div class="Tag--article">
+<div class="ArticleItem">
+<div class="ArticleItem--data ArticleItem--data--withImage">
+<a class="ArticleItem--image" data-stat="articleItem image" href="https://kaktus.media/doc/481478_sadyr_japarov_o_provalah_i_oshibkah_askara_akaeva:_ne_oshibaetsia_lish_tot_kto_ne_rabotaet.html">
+<img class="ArticleItem--image-img lazyload" data-src="https://data.kaktus.media/image/small/2023-05-30_12-16-37_396381.jpg" src="https://data.kaktus.media/image/small/2023-05-30_12-16-37_396381.jpg"/>
+</a>
+<a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481478_sadyr_japarov_o_provalah_i_oshibkah_askara_akaeva:_ne_oshibaetsia_lish_tot_kto_ne_rabotaet.html">
+Садыр Жапаров о провалах и ошибках Аскара Акаева: Не ошибается лишь тот, кто не работает </a>
+<div class="ArticleItem--info">
+<div class="ArticleItem--time">
+12:24 </div>
+</div>
+</div>
+</div>
+</div>
+<div class="Tag--article">
+<div class="ArticleItem">
+<div class="ArticleItem--data ArticleItem--data--withImage">
+<a class="ArticleItem--image" data-stat="articleItem image" href="https://kaktus.media/doc/481482_merii_predlojili_ne_snosit_postroyki_vdol_dorog_a_perenosit_ih.html">
+<img class="ArticleItem--image-img lazyload" data-src="https://data.kaktus.media/image/small/2023-05-30_12-17-50_270249.jpg" src="https://data.kaktus.media/image/small/2023-05-30_12-17-50_270249.jpg"/>
+</a>
+<a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481482_merii_predlojili_ne_snosit_postroyki_vdol_dorog_a_perenosit_ih.html">
+Мэрии предложили не сносить постройки вдоль дорог, а переносить их </a>
+<div class="ArticleItem--info">
+<div class="ArticleItem--time">
+12:22 </div>
+</div>
+</div>
+</div>
+</div>
+<div class="Tag--article">
+<div class="ArticleItem">
+<div class="ArticleItem--data ArticleItem--data--withImage">
+<a class="ArticleItem--image" data-stat="articleItem image" href="https://kaktus.media/doc/481483_glava_mid_kyrgyzstana_provel_vstrechy_s_mongolskoy_kollegoy._foto.html">
+<img class="ArticleItem--image-img lazyload" data-src="https://data.kaktus.media/image/small/2023-05-30_11-56-05_874119.jpg" src="https://data.kaktus.media/image/small/2023-05-30_11-56-05_874119.jpg"/>
+</a>
+<a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481483_glava_mid_kyrgyzstana_provel_vstrechy_s_mongolskoy_kollegoy._foto.html">
+Глава МИД Кыргызстана провел встречу с монгольской коллегой. Фото </a>
+<div class="ArticleItem--info">
+<div class="ArticleItem--time">
+11:56 </div>
+</div>
+</div>
+</div>
+</div>
+<div class="Tag--article">
+<div class="ArticleItem">
+<div class="ArticleItem--data ArticleItem--data--withImage">
+<a class="ArticleItem--image" data-stat="articleItem image" href="https://kaktus.media/doc/481481_oao_optima_bank_polychilo_nagrady_ot_ebrr_samyy_aktivnyy_bank_emitent_v_kyrgyzstane.html">
+<img class="ArticleItem--image-img lazyload" data-src="https://data.kaktus.media/image/small/2023-05-30_11-45-20_667312.jpg" src="https://data.kaktus.media/image/small/2023-05-30_11-45-20_667312.jpg"/>
+</a>
+<a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481481_oao_optima_bank_polychilo_nagrady_ot_ebrr_samyy_aktivnyy_bank_emitent_v_kyrgyzstane.html" style="font-weight: bold">
+ОАО "Оптима Банк" получило награду от ЕБРР "Самый активный банк-эмитент в Кыргызстане" </a>
+<div class="ArticleItem--info">
+<div class="ArticleItem--time">
+11:51 </div>
+</div>
+</div>
+</div>
+</div>
+<div class="Tag--article">
+<div class="ArticleItem">
+<div class="ArticleItem--data ArticleItem--data--withImage">
+<a class="ArticleItem--image" data-stat="articleItem image" href="https://kaktus.media/doc/481474_jk_vo_vremia_revolucii_ybejal._stala_izvestna_osnovnaia_cel_sozdaniia_narodnogo_kyryltaia.html">
+<img class="ArticleItem--image-img lazyload" data-src="https://data.kaktus.media/image/small/2023-05-30_11-42-27_886138.jpg" src="https://data.kaktus.media/image/small/2023-05-30_11-42-27_886138.jpg"/>
+<span class="ArticleItem--ico ArticleItem--ico--video"></span>
+</a>
+<a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481474_jk_vo_vremia_revolucii_ybejal._stala_izvestna_osnovnaia_cel_sozdaniia_narodnogo_kyryltaia.html">
+"ЖК во время революции убежал". Стала известна основная цель создания Народного курултая </a>
+<div class="ArticleItem--info">
+<div class="ArticleItem--time">
+11:47 </div>
+</div>
+</div>
+</div>
+</div>
+<div class="Tag--article">
+<div class="ArticleItem">
+<div class="ArticleItem--data ArticleItem--data--withImage">
+<a class="ArticleItem--image" data-stat="articleItem image" href="https://kaktus.media/doc/481479_orto_sayskiy_rynok_predlagaut_perenesti_za_predely_bishkeka.html">
+<img class="ArticleItem--image-img lazyload" data-src="https://data.kaktus.media/image/small/2023-05-30_11-40-47_373141.jpg" src="https://data.kaktus.media/image/small/2023-05-30_11-40-47_373141.jpg"/>
+</a>
+<a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481479_orto_sayskiy_rynok_predlagaut_perenesti_za_predely_bishkeka.html">
+Орто-Сайский рынок предлагают перенести за пределы Бишкека </a>
+<div class="ArticleItem--info">
+<div class="ArticleItem--time">
+11:42 </div>
+</div>
+</div>
+</div>
+</div>
+<div class="Tag--article">
+<div class="ArticleItem">
+<div class="ArticleItem--data ArticleItem--data--withImage">
+<a class="ArticleItem--image" data-stat="articleItem image" href="https://kaktus.media/doc/481307_v_bishkekskom_gorkeneshe_podniali_vopros_snosa_kafe_batymi.html">
+<img class="ArticleItem--image-img lazyload" data-src="https://data.kaktus.media/image/small/2023-05-30_11-32-52_469519.jpg" src="https://data.kaktus.media/image/small/2023-05-30_11-32-52_469519.jpg"/>
+</a>
+<a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481307_v_bishkekskom_gorkeneshe_podniali_vopros_snosa_kafe_batymi.html">
+В Бишкекском горкенеше подняли вопрос сноса кафе "Батуми" </a>
+<div class="ArticleItem--info">
+<div class="ArticleItem--time">
+11:36 </div>
+</div>
+</div>
+</div>
+</div>
+<div class="Tag--article">
+<div class="ArticleItem">
+<div class="ArticleItem--data ArticleItem--data--withImage">
+<a class="ArticleItem--image" data-stat="articleItem image" href="https://kaktus.media/doc/481477_rasskaz_o_tom_kak_argentinskiy_hydojnik_vstal_na_zashity_prirody_kyrgyzstana.html">
+<img class="ArticleItem--image-img lazyload" data-src="https://data.kaktus.media/image/small/2023-05-30_11-17-56_641719.jpg" src="https://data.kaktus.media/image/small/2023-05-30_11-17-56_641719.jpg"/>
+<span class="ArticleItem--ico ArticleItem--ico--photo"></span>
+</a>
+<a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481477_rasskaz_o_tom_kak_argentinskiy_hydojnik_vstal_na_zashity_prirody_kyrgyzstana.html">
+Рассказ о том, как аргентинский художник встал на защиту природы Кыргызстана </a>
+<div class="ArticleItem--info">
+<div class="ArticleItem--time">
+11:20 </div>
+</div>
+</div>
+</div>
+</div>
+<div class="Tag--article">
+<div class="ArticleItem">
+<div class="ArticleItem--data ArticleItem--data--withImage">
+<a class="ArticleItem--image" data-stat="articleItem image" href="https://kaktus.media/doc/481473_sadyr_japarov_rasskazal_ob_otnoshenii_vlastey_k_bakievym.html">
+<img class="ArticleItem--image-img lazyload" data-src="https://data.kaktus.media/image/small/2023-05-30_11-05-52_917954.jpg" src="https://data.kaktus.media/image/small/2023-05-30_11-05-52_917954.jpg"/>
+</a>
+<a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481473_sadyr_japarov_rasskazal_ob_otnoshenii_vlastey_k_bakievym.html">
+Садыр Жапаров рассказал об отношении властей к Бакиевым </a>
+<div class="ArticleItem--info">
+<div class="ArticleItem--time">
+11:18 </div>
+</div>
+</div>
+</div>
+</div>
+<div class="Tag--article">
+<div class="ArticleItem">
+<div class="ArticleItem--data ArticleItem--data--withImage">
+<a class="ArticleItem--image" data-stat="articleItem image" href="https://kaktus.media/doc/481475_shaynazarov:_razreshenie_privlech_niiazalievy_k_otvetstvennosti_po_dely_o_podkype_daet_cik.html">
+<img class="ArticleItem--image-img lazyload" data-src="https://data.kaktus.media/image/small/2023-05-30_11-10-17_220532.jpg" src="https://data.kaktus.media/image/small/2023-05-30_11-10-17_220532.jpg"/>
+</a>
+<a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481475_shaynazarov:_razreshenie_privlech_niiazalievy_k_otvetstvennosti_po_dely_o_podkype_daet_cik.html">
+Шайназаров: Разрешение привлечь Ниязалиеву к ответственности по делу о подкупе дает ЦИК </a>
+<div class="ArticleItem--info">
+<div class="ArticleItem--time">
+11:14 </div>
+</div>
+</div>
+</div>
+</div>
+<div class="Tag--article">
+<div class="ArticleItem">
+<div class="ArticleItem--data ArticleItem--data--withImage">
+<a class="ArticleItem--image" data-stat="articleItem image" href="https://kaktus.media/doc/481476_kto_priedet_v_cholpon_aty_na_sammit_evropeyskiy_souz_centralnaia_aziia.html">
+<img class="ArticleItem--image-img lazyload" data-src="https://data.kaktus.media/image/small/2023-05-30_10-52-48_885498.jpg" src="https://data.kaktus.media/image/small/2023-05-30_10-52-48_885498.jpg"/>
+</a>
+<a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481476_kto_priedet_v_cholpon_aty_na_sammit_evropeyskiy_souz_centralnaia_aziia.html">
+Кто приедет в Чолпон-Ату на саммит "Европейский союз - Центральная Азия" </a>
+<div class="ArticleItem--info">
+<div class="ArticleItem--time">
+10:52 </div>
+</div>
+</div>
+</div>
+</div>
+<div class="Tag--article">
+<div class="ArticleItem">
+<div class="ArticleItem--data ArticleItem--data--withImage">
+<a class="ArticleItem--image" data-stat="articleItem image" href="https://kaktus.media/doc/481472_melis_aspekov_vyshel_na_svobody.html">
+<img class="ArticleItem--image-img lazyload" data-src="https://data.kaktus.media/image/small/2023-05-30_10-29-47_655811.jpg" src="https://data.kaktus.media/image/small/2023-05-30_10-29-47_655811.jpg"/>
+</a>
+<a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481472_melis_aspekov_vyshel_na_svobody.html">
+Мелис Аспеков вышел на свободу </a>
+<div class="ArticleItem--info">
+<div class="ArticleItem--time">
+10:34 </div>
+</div>
+</div>
+</div>
+</div>
+<div class="Tag--article">
+<div class="ArticleItem">
+<div class="ArticleItem--data ArticleItem--data--withImage">
+<a class="ArticleItem--image" data-stat="articleItem image" href="https://kaktus.media/doc/481469_smert_detdomovca_igoria_iakynina._ego_brat_pojalovalsia_na_bezdeystvie_prokyratyry.html">
+<img class="ArticleItem--image-img lazyload" data-src="https://data.kaktus.media/image/small/2023-05-30_09-48-26_704778.jpg" src="https://data.kaktus.media/image/small/2023-05-30_09-48-26_704778.jpg"/>
+</a>
+<a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481469_smert_detdomovca_igoria_iakynina._ego_brat_pojalovalsia_na_bezdeystvie_prokyratyry.html">
+Смерть детдомовца Игоря Якунина. Его брат пожаловался на бездействие прокуратуры </a>
+<div class="ArticleItem--info">
+<div class="ArticleItem--time">
+10:19 </div>
+</div>
+</div>
+</div>
+</div>
+<div class="Tag--article">
+<div class="ArticleItem">
+<div class="ArticleItem--data ArticleItem--data--withImage">
+<a class="ArticleItem--image" data-stat="articleItem image" href="https://kaktus.media/doc/481471_ssha_i_evropy_poprosili_ne_davat_vizy_iniciatoram_zakonov_o_jestkom_kontrole_nko_i_smi.html">
+<img class="ArticleItem--image-img lazyload" data-src="https://data.kaktus.media/image/small/2023-05-30_10-16-36_918483.jpg" src="https://data.kaktus.media/image/small/2023-05-30_10-16-36_918483.jpg"/>
+</a>
+<a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481471_ssha_i_evropy_poprosili_ne_davat_vizy_iniciatoram_zakonov_o_jestkom_kontrole_nko_i_smi.html" style="font-weight: bold">
+США и Европу попросили не давать визы инициаторам законов о жестком контроле НКО и СМИ </a>
+<div class="ArticleItem--info">
+<div class="ArticleItem--time">
+10:17 </div>
+</div>
+</div>
+</div>
+</div>
+<div class="Tag--article">
+<div class="ArticleItem">
+<div class="ArticleItem--data ArticleItem--data--withImage">
+<a class="ArticleItem--image" data-stat="articleItem image" href="https://kaktus.media/doc/481129_kyda_shodit_v_bishkeke_v_chest_dnia_zashity_detey_programma.html">
+<img class="ArticleItem--image-img lazyload" data-src="https://data.kaktus.media/image/small/2023-05-30_09-50-36_910851.jpg" src="https://data.kaktus.media/image/small/2023-05-30_09-50-36_910851.jpg"/>
+</a>
+<a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481129_kyda_shodit_v_bishkeke_v_chest_dnia_zashity_detey_programma.html">
+Куда сходить в Бишкеке в честь Дня защиты детей? Программа </a>
+<div class="ArticleItem--info">
+<div class="ArticleItem--time">
+09:58 </div>
+</div>
+</div>
+</div>
+</div>
+<div class="Tag--article">
+<div class="ArticleItem">
+<div class="ArticleItem--data ArticleItem--data--withImage">
+<a class="ArticleItem--image" data-stat="articleItem image" href="https://kaktus.media/doc/481468_kyrs_valut_na_mossovete_30_maia:_skolko_stoit_dollar.html">
+<img class="ArticleItem--image-img lazyload" data-src="https://data.kaktus.media/image/small/2023-05-30_09-34-53_468614.jpg" src="https://data.kaktus.media/image/small/2023-05-30_09-34-53_468614.jpg"/>
+</a>
+<a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481468_kyrs_valut_na_mossovete_30_maia:_skolko_stoit_dollar.html">
+Курс валют на Моссовете 30 мая: сколько стоит доллар? </a>
+<div class="ArticleItem--info">
+<div class="ArticleItem--time">
+09:38 </div>
+</div>
+</div>
+</div>
+</div>
+<div class="Tag--article">
+<div class="ArticleItem">
+<div class="ArticleItem--data ArticleItem--data--withImage">
+<a class="ArticleItem--image" data-stat="articleItem image" href="https://kaktus.media/doc/481466_kabmin_ypolnomochil_dve_tipografii_pechatat_gosydarstvennye_dokymenty_i_blanki_kyrgyzstana.html">
+<img class="ArticleItem--image-img lazyload" data-src="https://data.kaktus.media/image/small/2023-05-30_08-42-08_422475.jpg" src="https://data.kaktus.media/image/small/2023-05-30_08-42-08_422475.jpg"/>
+</a>
+<a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481466_kabmin_ypolnomochil_dve_tipografii_pechatat_gosydarstvennye_dokymenty_i_blanki_kyrgyzstana.html">
+Кабмин уполномочил две типографии печатать государственные документы и бланки Кыргызстана </a>
+<div class="ArticleItem--info">
+<div class="ArticleItem--time">
+08:42 </div>
+</div>
+</div>
+</div>
+</div>
+<div class="Tag--article">
+<div class="ArticleItem">
+<div class="ArticleItem--data ArticleItem--data--withImage">
+<a class="ArticleItem--image" data-stat="articleItem image" href="https://kaktus.media/doc/481405_idealnyy_gosydar_ili_kakaia_vlast_nyjna_lichnosti_i_obshestvy.html">
+<img class="ArticleItem--image-img lazyload" data-src="https://data.kaktus.media/image/small/2023-05-30_09-40-46_369018.jpg" src="https://data.kaktus.media/image/small/2023-05-30_09-40-46_369018.jpg"/>
+</a>
+<a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481405_idealnyy_gosydar_ili_kakaia_vlast_nyjna_lichnosti_i_obshestvy.html">
+Идеальный государь, или Какая власть нужна личности и обществу </a>
+<div class="ArticleItem--info">
+<div class="ArticleItem--time">
+08:34 </div>
+</div>
+</div>
+</div>
+</div>
+<div class="Tag--article">
+<div class="ArticleItem">
+<div class="ArticleItem--data ArticleItem--data--withImage">
+<a class="ArticleItem--image" data-stat="articleItem image" href="https://kaktus.media/doc/481465_para_iz_kyrgyzstana_zavoevala_zoloto_na_mejdynarodnom_tyrnire_po_tancam_v_tbilisi_foto.html">
+<img class="ArticleItem--image-img lazyload" data-src="https://data.kaktus.media/image/small/2023-05-30_08-28-33_698530.jpg" src="https://data.kaktus.media/image/small/2023-05-30_08-28-33_698530.jpg"/>
+</a>
+<a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481465_para_iz_kyrgyzstana_zavoevala_zoloto_na_mejdynarodnom_tyrnire_po_tancam_v_tbilisi_foto.html">
+Пара из Кыргызстана завоевала золото на международном турнире по танцам в Тбилиси (фото) </a>
+<div class="ArticleItem--info">
+<div class="ArticleItem--time">
+08:28 </div>
+</div>
+</div>
+</div>
+</div>
+<div class="Tag--article">
+<div class="ArticleItem">
+<div class="ArticleItem--data ArticleItem--data--withImage">
+<a class="ArticleItem--image" data-stat="articleItem image" href="https://kaktus.media/doc/481464_sobytiia_v_ykraine_i_mire._glavnoe_k_ytry_30_maia.html">
+<img class="ArticleItem--image-img lazyload" data-src="https://data.kaktus.media/image/small/2023-05-30_08-08-43_660572.jpg" src="https://data.kaktus.media/image/small/2023-05-30_08-08-43_660572.jpg"/>
+</a>
+<a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481464_sobytiia_v_ykraine_i_mire._glavnoe_k_ytry_30_maia.html">
+События в Украине и мире. Главное к утру 30 мая </a>
+<div class="ArticleItem--info">
+<div class="ArticleItem--time">
+08:09 </div>
+</div>
+</div>
+</div>
+</div>
+<div class="Tag--article">
+<div class="ArticleItem">
+<div class="ArticleItem--data ArticleItem--data--withImage">
+<a class="ArticleItem--image" data-stat="articleItem image" href="https://kaktus.media/doc/481463_advokat_damiry_niiazalievoy:_nichego_v_ofise_shtaba_ne_nashli.html">
+<img class="ArticleItem--image-img lazyload" data-src="https://data.kaktus.media/image/small/2023-05-30_02-13-31_895577.jpg" src="https://data.kaktus.media/image/small/2023-05-30_02-13-31_895577.jpg"/>
+<span class="ArticleItem--ico ArticleItem--ico--video"></span>
+</a>
+<a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481463_advokat_damiry_niiazalievoy:_nichego_v_ofise_shtaba_ne_nashli.html">
+Адвокат Дамиры Ниязалиевой: Ничего в офисе штаба не нашли </a>
+<div class="ArticleItem--info">
+<div class="ArticleItem--time">
+02:18 </div>
+</div>
+</div>
+</div>
+</div>
+<div class="Tag--article">
+<div class="ArticleItem">
+<div class="ArticleItem--data ArticleItem--data--withImage">
+<a class="ArticleItem--image" data-stat="articleItem image" href="https://kaktus.media/doc/481462_damira_niiazalieva_o_svoem_vozmojnom_zaderjanii:_nichemy_ne_ydivliaus_vse_vozmojno.html">
+<img class="ArticleItem--image-img lazyload" data-src="https://data.kaktus.media/image/small/2023-05-30_00-33-26_523613.jpg" src="https://data.kaktus.media/image/small/2023-05-30_00-33-26_523613.jpg"/>
+<span class="ArticleItem--ico ArticleItem--ico--video"></span>
+</a>
+<a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481462_damira_niiazalieva_o_svoem_vozmojnom_zaderjanii:_nichemy_ne_ydivliaus_vse_vozmojno.html">
+Дамира Ниязалиева о своем возможном задержании: Ничему не удивляюсь, все возможно </a>
+<div class="ArticleItem--info">
+<div class="ArticleItem--time">
+00:35 </div>
+</div>
+</div>
+</div>
+</div>
+</div>]
+
+
+
+
+
+
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
+
+
+
+
+
+[<a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481507_oryntaev_ne_sobiraetsia_ostanavlivatsia_v_voprosah_snosa_obektov.html">
+Орунтаев не собирается останавливаться в вопросах сноса объектов </a>, <a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481494_snos_kafe_batymi._v_bgk_sprosili_oryntaeva_gde_on_vozmet_3_mln_somov.html">
+Снос кафе "Батуми". В БГК спросили Орунтаева, где он возьмет 3 млн сомов </a>, <a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481503_syna_nadiry_narmatovoy_otpystili_pod_domashniy_arest._on_obviniaetsia_v_korrypcii_na_tamojne.html">
+Сына Надиры Нарматовой отпустили под домашний арест. Он обвиняется в коррупции на таможне </a>, <a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481470_v_oshe_otkrylsia_filial_mgy_im._m._lomonosova_video.html">
+В Оше открылся филиал МГУ им. М. Ломоносова (видео) </a>, <a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481502_kak_vygliadiat_ychastniki_d_billions_bez_grima_foto_so_vstrechi_akterov_s_akylbekom_japarovym.html">
+Как выглядят участники D Billions без грима? Фото со встречи актеров с Акылбеком Жапаровым </a>, <a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481496_oryntaev:_demontaj_kafe_batymi_seychas_priostanovlen.html">
+Орунтаев: Демонтаж кафе "Батуми" сейчас приостановлен </a>, <a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481499_v_bishkeke_pri_shkolah_bydyt_rabotat_letnie_detskie_lageria.html">
+В Бишкеке при школах будут работать летние детские лагеря </a>, <a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481498_vo_vremia_operacii_podrostok_zaderjali_podozrevaemogo_v_kraje_37_letnego_jitelia_karakola.html">
+Во время операции "Подросток" задержали подозреваемого в краже 37-летнего жителя Каракола </a>, <a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481497_v_bishkeke_prodlili_moratoriy_na_arendy_zemli.html">
+В Бишкеке продлили мораторий на аренду земли </a>, <a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481485_zaderjka_reysa_iz_za_neispravnosti_samoleta._passajiry_vse_eshe_jdyt_otvet_aviakompanii.html">
+Задержка рейса из-за неисправности самолета. Пассажиры все еще ждут ответ авиакомпании </a>, <a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/480124_kak_i_pochemy_deti_prohodiat_proverky_y_psihiatra_video.html" style="font-weight: bold">
+Как и почему дети проходят проверку у психиатра? (видео) </a>, <a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481484_profilnyy_komitet_odobril_lishenie_prokyratyry_fynkcii_sledstviia._byvshiy_prokyror_protiv.html">
+Профильный комитет одобрил лишение прокуратуры функции следствия. Бывший прокурор против </a>, <a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481493_v_bishkeke_povysili_tarif_na_holodnyu_vody_i_kanalizaciu_s_1_iunia.html" style="font-weight: bold">
+В Бишкеке повысили тариф на холодную воду и канализацию с 1 июня </a>, <a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481492_moskvy_i_podmoskove_atakovali_bespilotniki_foto_video.html">
+Москву и Подмосковье атаковали беспилотники (фото, видео) </a>, <a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481489_segodnia_sessiia_bgk._mer_otvetil_jdat_li_na_ney_nyrdana_oryntaeva.html">
+Сегодня сессия БГК. Мэр ответил, ждать ли на ней Нурдана Орунтаева </a>, <a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481488_kyrs_valut_v_kombankah_30_maia:_cena_prodaji_dollara_snizilas.html">
+Курс валют в комбанках 30 мая: цена продажи доллара снизилась </a>, <a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481487_zaderjany_podozrevaemye_v_ybiystve_v_kotorom_obviniali_syna_izvestnogo_advokata.html">
+Задержаны подозреваемые в убийстве, в котором обвиняли сына известного адвоката </a>, <a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481486_meriu_prosiat_aktivnee_snosit_postroyki_vdol_pravitelstvennyh_trass.html">
+Мэрию просят активнее сносить постройки вдоль правительственных трасс </a>, <a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481478_sadyr_japarov_o_provalah_i_oshibkah_askara_akaeva:_ne_oshibaetsia_lish_tot_kto_ne_rabotaet.html">
+Садыр Жапаров о провалах и ошибках Аскара Акаева: Не ошибается лишь тот, кто не работает </a>, <a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481482_merii_predlojili_ne_snosit_postroyki_vdol_dorog_a_perenosit_ih.html">
+Мэрии предложили не сносить постройки вдоль дорог, а переносить их </a>, <a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481483_glava_mid_kyrgyzstana_provel_vstrechy_s_mongolskoy_kollegoy._foto.html">
+Глава МИД Кыргызстана провел встречу с монгольской коллегой. Фото </a>, <a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481481_oao_optima_bank_polychilo_nagrady_ot_ebrr_samyy_aktivnyy_bank_emitent_v_kyrgyzstane.html" style="font-weight: bold">
+ОАО "Оптима Банк" получило награду от ЕБРР "Самый активный банк-эмитент в Кыргызстане" </a>, <a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481474_jk_vo_vremia_revolucii_ybejal._stala_izvestna_osnovnaia_cel_sozdaniia_narodnogo_kyryltaia.html">
+"ЖК во время революции убежал". Стала известна основная цель создания Народного курултая </a>, <a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481479_orto_sayskiy_rynok_predlagaut_perenesti_za_predely_bishkeka.html">
+Орто-Сайский рынок предлагают перенести за пределы Бишкека </a>, <a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481307_v_bishkekskom_gorkeneshe_podniali_vopros_snosa_kafe_batymi.html">
+В Бишкекском горкенеше подняли вопрос сноса кафе "Батуми" </a>, <a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481477_rasskaz_o_tom_kak_argentinskiy_hydojnik_vstal_na_zashity_prirody_kyrgyzstana.html">
+Рассказ о том, как аргентинский художник встал на защиту природы Кыргызстана </a>, <a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481473_sadyr_japarov_rasskazal_ob_otnoshenii_vlastey_k_bakievym.html">
+Садыр Жапаров рассказал об отношении властей к Бакиевым </a>, <a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481475_shaynazarov:_razreshenie_privlech_niiazalievy_k_otvetstvennosti_po_dely_o_podkype_daet_cik.html">
+Шайназаров: Разрешение привлечь Ниязалиеву к ответственности по делу о подкупе дает ЦИК </a>, <a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481476_kto_priedet_v_cholpon_aty_na_sammit_evropeyskiy_souz_centralnaia_aziia.html">
+Кто приедет в Чолпон-Ату на саммит "Европейский союз - Центральная Азия" </a>, <a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481472_melis_aspekov_vyshel_na_svobody.html">
+Мелис Аспеков вышел на свободу </a>, <a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481469_smert_detdomovca_igoria_iakynina._ego_brat_pojalovalsia_na_bezdeystvie_prokyratyry.html">
+Смерть детдомовца Игоря Якунина. Его брат пожаловался на бездействие прокуратуры </a>, <a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481471_ssha_i_evropy_poprosili_ne_davat_vizy_iniciatoram_zakonov_o_jestkom_kontrole_nko_i_smi.html" style="font-weight: bold">
+США и Европу попросили не давать визы инициаторам законов о жестком контроле НКО и СМИ </a>, <a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481129_kyda_shodit_v_bishkeke_v_chest_dnia_zashity_detey_programma.html">
+Куда сходить в Бишкеке в честь Дня защиты детей? Программа </a>, <a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481468_kyrs_valut_na_mossovete_30_maia:_skolko_stoit_dollar.html">
+Курс валют на Моссовете 30 мая: сколько стоит доллар? </a>, <a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481466_kabmin_ypolnomochil_dve_tipografii_pechatat_gosydarstvennye_dokymenty_i_blanki_kyrgyzstana.html">
+Кабмин уполномочил две типографии печатать государственные документы и бланки Кыргызстана </a>, <a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481405_idealnyy_gosydar_ili_kakaia_vlast_nyjna_lichnosti_i_obshestvy.html">
+Идеальный государь, или Какая власть нужна личности и обществу </a>, <a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481465_para_iz_kyrgyzstana_zavoevala_zoloto_na_mejdynarodnom_tyrnire_po_tancam_v_tbilisi_foto.html">
+Пара из Кыргызстана завоевала золото на международном турнире по танцам в Тбилиси (фото) </a>, <a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481464_sobytiia_v_ykraine_i_mire._glavnoe_k_ytry_30_maia.html">
+События в Украине и мире. Главное к утру 30 мая </a>, <a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481463_advokat_damiry_niiazalievoy:_nichego_v_ofise_shtaba_ne_nashli.html">
+Адвокат Дамиры Ниязалиевой: Ничего в офисе штаба не нашли </a>, <a class="ArticleItem--name" data-stat="articleItem" href="https://kaktus.media/doc/481462_damira_niiazalieva_o_svoem_vozmojnom_zaderjanii:_nichemy_ne_ydivliaus_vse_vozmojno.html">
+Дамира Ниязалиева о своем возможном задержании: Ничему не удивляюсь, все возможно </a>]
